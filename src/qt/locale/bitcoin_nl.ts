@@ -41,243 +41,332 @@ door Thomas Bernard.
 <context>
     <name>AddressBookDialog</name>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="14"/>
         <source>Address Book</source>
-        <translation>Adresboek</translation>
+        <translation type="obsolete">Adresboek</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="27"/>
         <source>Sending</source>
-        <translation>Versturen</translation>
+        <translation type="obsolete">Versturen</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="53"/>
         <source>Receiving</source>
-        <translation>Ontvangen</translation>
+        <translation type="obsolete">Ontvangen</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="59"/>
         <source>These are your Bitcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.  The highlighted address is displayed in the main window.</source>
-        <translation>Dit zijn je bitcoin-adressen voor het ontvangen van betalingen.  Het is een goed idee iedere afzender een ander adres te geven zodat je bij kunt houden wie je een betaling stuurt. Het geselecteerde adres is zichtbaar in het hoofdscherm.</translation>
+        <translation type="obsolete">Dit zijn je bitcoin-adressen voor het ontvangen van betalingen.  Het is een goed idee iedere afzender een ander adres te geven zodat je bij kunt houden wie je een betaling stuurt. Het geselecteerde adres is zichtbaar in het hoofdscherm.</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="107"/>
         <source>Create a new address</source>
-        <translation>Voeg een nieuw adres toe</translation>
+        <translation type="obsolete">Voeg een nieuw adres toe</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="110"/>
         <source>&amp;New Address...</source>
-        <translation>&amp;Nieuw adres...</translation>
+        <translation type="obsolete">&amp;Nieuw adres...</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="117"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Kopieer het geselecteerde adres naar het plakbord</translation>
+        <translation type="obsolete">Kopieer het geselecteerde adres naar het plakbord</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="120"/>
         <source>&amp;Copy to Clipboard</source>
-        <translation>&amp;Kopieer naar plakbord</translation>
+        <translation type="obsolete">&amp;Kopieer naar plakbord</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="127"/>
         <source>Edit the currently selected address</source>
-        <translation>Bewerk het geselecteerde adres</translation>
+        <translation type="obsolete">Bewerk het geselecteerde adres</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="130"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Bewerken...</translation>
+        <translation type="obsolete">&amp;Bewerken...</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="137"/>
         <source>Delete the currently selected address from the list. Only sending addresses can be deleted.</source>
-        <translation>Verwijder het geselecteerde adres. Alleen verstuur-adressen kunnen worden verwijderd.</translation>
+        <translation type="obsolete">Verwijder het geselecteerde adres. Alleen verstuur-adressen kunnen worden verwijderd.</translation>
     </message>
     <message>
-        <location filename="../forms/addressbookdialog.ui" line="140"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Verwijderen</translation>
+        <translation type="obsolete">&amp;Verwijderen</translation>
+    </message>
+</context>
+<context>
+    <name>AddressBookPage</name>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="14"/>
+        <source>Address Book</source>
+        <translation type="unfinished">Adresboek</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="20"/>
+        <source>These are your Bitcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="33"/>
+        <source>Double-click to edit address or label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="57"/>
+        <source>Create a new address</source>
+        <translation type="unfinished">Voeg een nieuw adres toe</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="60"/>
+        <source>&amp;New Address...</source>
+        <translation type="unfinished">&amp;Nieuw adres...</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="71"/>
+        <source>Copy the currently selected address to the system clipboard</source>
+        <translation type="unfinished">Kopieer het geselecteerde adres naar het plakbord</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="74"/>
+        <source>&amp;Copy to Clipboard</source>
+        <translation type="unfinished">&amp;Kopieer naar plakbord</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="85"/>
+        <source>Delete the currently selected address from the list. Only sending addresses can be deleted.</source>
+        <translation type="unfinished">Verwijder het geselecteerde adres. Alleen verstuur-adressen kunnen worden verwijderd.</translation>
+    </message>
+    <message>
+        <location filename="../forms/addressbookpage.ui" line="88"/>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Verwijderen</translation>
     </message>
 </context>
 <context>
     <name>AddressTableModel</name>
     <message>
-        <location filename="../addresstablemodel.cpp" line="83"/>
+        <location filename="../addresstablemodel.cpp" line="78"/>
         <source>Label</source>
         <translation>Label</translation>
     </message>
     <message>
-        <location filename="../addresstablemodel.cpp" line="83"/>
+        <location filename="../addresstablemodel.cpp" line="78"/>
         <source>Address</source>
         <translation>Adres</translation>
     </message>
     <message>
-        <location filename="../addresstablemodel.cpp" line="149"/>
+        <location filename="../addresstablemodel.cpp" line="114"/>
+        <source>(no label)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Default receiving address</source>
-        <translation>Standaard ontvangst-adres</translation>
+        <translation type="obsolete">Standaard ontvangst-adres</translation>
     </message>
 </context>
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <location filename="../bitcoingui.cpp" line="50"/>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation type="obsolete">Bitcoin</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="76"/>
         <source>Your Bitcoin address:</source>
-        <translation>Uw bitcoin-adres:</translation>
+        <translation type="obsolete">Uw bitcoin-adres:</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="80"/>
         <source>Your current default receiving address</source>
-        <translation>Uw huidig standaard ontvangst-adres</translation>
+        <translation type="obsolete">Uw huidig standaard ontvangst-adres</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="83"/>
         <source>&amp;New...</source>
-        <translation>&amp;Nieuw...</translation>
+        <translation type="obsolete">&amp;Nieuw...</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="84"/>
         <source>Create new receiving address</source>
-        <translation>Maak nieuw ontvangst-adres</translation>
+        <translation type="obsolete">Maak nieuw ontvangst-adres</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="85"/>
         <source>&amp;Copy to clipboard</source>
-        <translation>&amp;Kopieer naar plakbord</translation>
+        <translation type="obsolete">&amp;Kopieer naar plakbord</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="86"/>
         <source>Copy current receiving address to the system clipboard</source>
-        <translation>Kopieer huidig ontvangst-adres naar plakbord</translation>
+        <translation type="obsolete">Kopieer huidig ontvangst-adres naar plakbord</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="92"/>
         <source>Balance:</source>
-        <translation>Saldo:</translation>
+        <translation type="obsolete">Saldo:</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="97"/>
         <source>Your current balance</source>
-        <translation>Uw huidige saldo</translation>
+        <translation type="obsolete">Uw huidige saldo</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="117"/>
+        <location filename="../bitcoingui.cpp" line="112"/>
         <source>Number of connections to other clients</source>
         <translation>Aantal verbindingen met andere clients</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="122"/>
+        <location filename="../bitcoingui.cpp" line="117"/>
         <source>Number of blocks in the block chain</source>
         <translation>Aantal blokken in de block-chain</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="127"/>
         <source>Number of transactions in your wallet</source>
-        <translation>Aantal transacties in je portefeuille</translation>
+        <translation type="obsolete">Aantal transacties in je portefeuille</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="130"/>
+        <location filename="../bitcoingui.cpp" line="120"/>
         <source>Synchronizing with network...</source>
         <translation>Synchroniseren met netwerk...</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="133"/>
+        <location filename="../bitcoingui.cpp" line="123"/>
         <source>Block chain synchronization in progress</source>
         <translation>Bezig met blokken-database-synchronisatie</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="151"/>
+        <location filename="../bitcoingui.cpp" line="169"/>
         <source>&amp;Exit</source>
         <translation>A&amp;fsluiten</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="152"/>
+        <location filename="../bitcoingui.cpp" line="170"/>
         <source>Quit application</source>
         <translation>De applicatie afsluiten</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="153"/>
+        <location filename="../bitcoingui.cpp" line="158"/>
         <source>&amp;Send coins</source>
         <translation>&amp;Verstuur coins</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="154"/>
+        <location filename="../bitcoingui.cpp" line="159"/>
         <source>Send coins to a bitcoin address</source>
         <translation>Coins versturen naar een bitcoin-adres</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="155"/>
+        <location filename="../bitcoingui.cpp" line="148"/>
         <source>&amp;Address Book</source>
         <translation>&amp;Adresboek</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="156"/>
+        <location filename="../bitcoingui.cpp" line="50"/>
+        <source>Bitcoin Wallet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="140"/>
+        <source>&amp;Overview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="144"/>
+        <source>&amp;Transactions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="149"/>
         <source>Edit the list of stored addresses and labels</source>
         <translation>Bewerk de lijst van adressen en labels</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="157"/>
+        <location filename="../bitcoingui.cpp" line="153"/>
+        <source>&amp;Receive coins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="154"/>
+        <source>Show the list of addresses for receiving payments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="171"/>
         <source>&amp;About</source>
         <translation>&amp;Over Bitcoin</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="158"/>
+        <location filename="../bitcoingui.cpp" line="172"/>
         <source>Show information about Bitcoin</source>
         <translation>Laat informatie zien over Bitcoin</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="159"/>
+        <location filename="../bitcoingui.cpp" line="177"/>
+        <source>&amp;Export...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="178"/>
+        <source>Export data in current view to a file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="193"/>
+        <source>[testnet]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="408"/>
+        <source>Date: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="409"/>
+        <source>Amount: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="410"/>
+        <source>Type: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="411"/>
+        <source>Address: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Your &amp;Receiving Addresses...</source>
-        <translation>&amp;Uw ontvangstadressen...</translation>
+        <translation type="obsolete">&amp;Uw ontvangstadressen...</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="160"/>
         <source>Show the list of receiving addresses and edit their labels</source>
-        <translation>Laat de lijst zien van ontvangst-adressen en bewerk de labels</translation>
+        <translation type="obsolete">Laat de lijst zien van ontvangst-adressen en bewerk de labels</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="161"/>
+        <location filename="../bitcoingui.cpp" line="173"/>
         <source>&amp;Options...</source>
         <translation>&amp;Opties...</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="162"/>
+        <location filename="../bitcoingui.cpp" line="174"/>
         <source>Modify configuration options for bitcoin</source>
         <translation>Verander instellingen van Bitcoin</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="164"/>
+        <location filename="../bitcoingui.cpp" line="175"/>
+        <source>Open &amp;Bitcoin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../bitcoingui.cpp" line="176"/>
         <source>Show the Bitcoin window</source>
         <translation>Laat het Bitcoin-venster zien</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="231"/>
         <source>All transactions</source>
-        <translation>Alle transacties</translation>
+        <translation type="obsolete">Alle transacties</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="232"/>
         <source>Sent/Received</source>
-        <translation>Verzonden/Ontvangen</translation>
+        <translation type="obsolete">Verzonden/Ontvangen</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="233"/>
         <source>Sent</source>
-        <translation>Verzonden</translation>
+        <translation type="obsolete">Verzonden</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="234"/>
         <source>Received</source>
-        <translation>Ontvangen</translation>
+        <translation type="obsolete">Ontvangen</translation>
     </message>
     <message numerus="yes">
-        <location filename="../bitcoingui.cpp" line="364"/>
+        <location filename="../bitcoingui.cpp" line="298"/>
         <source>%n connection(s)</source>
         <translation>
             <numerusform>%n verbinding</numerusform>
@@ -285,7 +374,7 @@ door Thomas Bernard.
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../bitcoingui.cpp" line="383"/>
+        <location filename="../bitcoingui.cpp" line="317"/>
         <source>%n block(s)</source>
         <translation>
             <numerusform>%n blok</numerusform>
@@ -293,25 +382,24 @@ door Thomas Bernard.
         </translation>
     </message>
     <message numerus="yes">
-        <location filename="../bitcoingui.cpp" line="388"/>
         <source>%n transaction(s)</source>
-        <translation>
+        <translation type="obsolete">
             <numerusform>%n transactie</numerusform>
             <numerusform>%n transacties</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="441"/>
+        <location filename="../bitcoingui.cpp" line="375"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
         <translation>Deze transactie overschrijdt de limiet.  Om de transactie alsnog te verwerken kun je een fooi betalen van %1. Deze zal betaald worden aan de node die uw transactie verwerkt. Wil je doorgaan en deze fooi betalen?</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="445"/>
+        <location filename="../bitcoingui.cpp" line="379"/>
         <source>Sending...</source>
         <translation>Versturen...</translation>
     </message>
     <message>
-        <location filename="../bitcoingui.cpp" line="473"/>
+        <location filename="../bitcoingui.cpp" line="407"/>
         <source>Incoming transaction</source>
         <translation>Binnenkomende transactie</translation>
     </message>
@@ -319,9 +407,8 @@ door Thomas Bernard.
 <context>
     <name>ClientModel</name>
     <message>
-        <location filename="../clientmodel.cpp" line="106"/>
         <source>Sending...</source>
-        <translation>Versturen...</translation>
+        <translation type="obsolete">Versturen...</translation>
     </message>
 </context>
 <context>
@@ -337,12 +424,12 @@ door Thomas Bernard.
         <translation>&amp;Label</translation>
     </message>
     <message>
-        <location filename="../forms/editaddressdialog.ui" line="35"/>
+        <location filename="../forms/editaddressdialog.ui" line="42"/>
         <source>&amp;Address</source>
         <translation>&amp;Adres</translation>
     </message>
     <message>
-        <location filename="../forms/editaddressdialog.ui" line="45"/>
+        <location filename="../forms/editaddressdialog.ui" line="35"/>
         <source>The label associated with this address book entry</source>
         <translation>Het label dat is geassocieerd met dit adres</translation>
     </message>
@@ -352,9 +439,8 @@ door Thomas Bernard.
         <translation>Het adres dat is geassocieerd met de label. Dit kan alleen worden veranderd voor verzend-adressen.</translation>
     </message>
     <message>
-        <location filename="../forms/editaddressdialog.ui" line="59"/>
         <source>Set as default receiving address</source>
-        <translation>Stel in as standaard ontvangst-adres</translation>
+        <translation type="obsolete">Stel in as standaard ontvangst-adres</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="20"/>
@@ -362,24 +448,33 @@ door Thomas Bernard.
         <translation>Nieuw ontvangst-adres</translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="25"/>
+        <location filename="../editaddressdialog.cpp" line="24"/>
         <source>New sending address</source>
         <translation>Nieuw verzend-adres</translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="29"/>
+        <location filename="../editaddressdialog.cpp" line="27"/>
         <source>Edit receiving address</source>
         <translation>Bewerk ontvangst-adres</translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="33"/>
+        <location filename="../editaddressdialog.cpp" line="31"/>
         <source>Edit sending address</source>
         <translation>Bewerk ontvangst-adres</translation>
     </message>
     <message>
-        <location filename="../editaddressdialog.cpp" line="76"/>
+        <location filename="../editaddressdialog.cpp" line="89"/>
+        <source>The entered address &quot;%1&quot; is not a valid bitcoin address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../editaddressdialog.cpp" line="97"/>
+        <source>The entered address &quot;%1&quot; is already in the address book.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The address %1 is already in the address book.</source>
-        <translation>Het adres %1 staat al in het adresboek.</translation>
+        <translation type="obsolete">Het adres %1 staat al in het adresboek.</translation>
     </message>
 </context>
 <context>
@@ -484,14 +579,47 @@ door Thomas Bernard.
     </message>
 </context>
 <context>
+    <name>OverviewPage</name>
+    <message>
+        <location filename="../forms/overviewpage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/overviewpage.ui" line="38"/>
+        <source>Balance:</source>
+        <translation type="unfinished">Saldo:</translation>
+    </message>
+    <message>
+        <location filename="../forms/overviewpage.ui" line="45"/>
+        <source>123.456 BTC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/overviewpage.ui" line="52"/>
+        <source>Number of transactions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/overviewpage.ui" line="59"/>
+        <source>0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../overviewpage.cpp" line="14"/>
+        <source>Your current balance</source>
+        <translation type="unfinished">Uw huidige saldo</translation>
+    </message>
+</context>
+<context>
     <name>SendCoinsDialog</name>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="14"/>
         <location filename="../sendcoinsdialog.cpp" line="56"/>
-        <location filename="../sendcoinsdialog.cpp" line="71"/>
-        <location filename="../sendcoinsdialog.cpp" line="77"/>
-        <location filename="../sendcoinsdialog.cpp" line="83"/>
-        <location filename="../sendcoinsdialog.cpp" line="89"/>
+        <location filename="../sendcoinsdialog.cpp" line="78"/>
+        <location filename="../sendcoinsdialog.cpp" line="84"/>
+        <location filename="../sendcoinsdialog.cpp" line="90"/>
+        <location filename="../sendcoinsdialog.cpp" line="96"/>
         <source>Send Coins</source>
         <translation>Verstuur coins</translation>
     </message>
@@ -518,6 +646,17 @@ door Thomas Bernard.
         <location filename="../forms/sendcoinsdialog.ui" line="60"/>
         <source>Paste address from system clipboard</source>
         <translation>Plak adres uit systeemplakbord</translation>
+    </message>
+    <message>
+        <location filename="../forms/sendcoinsdialog.ui" line="131"/>
+        <location filename="../sendcoinsdialog.cpp" line="23"/>
+        <source>Enter a label for this address to add it to your address book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../forms/sendcoinsdialog.ui" line="140"/>
+        <source>&amp;Label:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Paste</source>
@@ -548,57 +687,68 @@ door Thomas Bernard.
         <translation>Voer een bitcoin-adres in (bijvoorbeeld: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="125"/>
         <source>Add specified destination address to address book</source>
-        <translation>Voeg het ingevoerde doel-adres toe aan het adresboek</translation>
+        <translation type="obsolete">Voeg het ingevoerde doel-adres toe aan het adresboek</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="128"/>
         <source>A&amp;dd to address book as</source>
-        <translation>&amp;Voeg toe aan adresboek als</translation>
+        <translation type="obsolete">&amp;Voeg toe aan adresboek als</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="138"/>
         <source>Label to add address as</source>
-        <translation>Label om toe te kennen aan adres in adresboek</translation>
+        <translation type="obsolete">Label om toe te kennen aan adres in adresboek</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="177"/>
+        <location filename="../forms/sendcoinsdialog.ui" line="183"/>
         <source>Confirm the send action</source>
         <translation>Bevestig de zend-transactie</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="180"/>
+        <location filename="../forms/sendcoinsdialog.ui" line="186"/>
         <source>&amp;Send</source>
         <translation>&amp;Versturen</translation>
     </message>
     <message>
-        <location filename="../forms/sendcoinsdialog.ui" line="200"/>
+        <location filename="../forms/sendcoinsdialog.ui" line="206"/>
         <source>Abort the send action</source>
         <translation>De transactie annuleren</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="57"/>
         <source>The amount to pay must be a valid number.</source>
-        <translation>Het ingevoerde bedrag is geen geldig getal.</translation>
+        <translation type="obsolete">Het ingevoerde bedrag is geen geldig getal.</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="72"/>
+        <location filename="../sendcoinsdialog.cpp" line="57"/>
+        <source>Must fill in an amount to pay.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../sendcoinsdialog.cpp" line="65"/>
+        <source>Confirm send coins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../sendcoinsdialog.cpp" line="66"/>
+        <source>Are you sure you want to send %1 BTC to %2 (%3)?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../sendcoinsdialog.cpp" line="79"/>
         <source>The recepient address is not valid, please recheck.</source>
         <translation>Het verzendadres is niet geld.</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="78"/>
+        <location filename="../sendcoinsdialog.cpp" line="85"/>
         <source>The amount to pay must be larger than 0.</source>
         <translation>Het ingevoerde gedrag moet groter zijn dan 0.</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="84"/>
+        <location filename="../sendcoinsdialog.cpp" line="91"/>
         <source>Amount exceeds your balance</source>
         <translation>Hoeveelheid overschrijdt uw huidige balans</translation>
     </message>
     <message>
-        <location filename="../sendcoinsdialog.cpp" line="90"/>
+        <location filename="../sendcoinsdialog.cpp" line="97"/>
         <source>Total exceeds your balance when the %1 transaction fee is included</source>
         <translation>Totaal overschrijdt uw huidige balans wanneer de %1 transactiefooi is meegerekend</translation>
     </message>
@@ -619,32 +769,117 @@ door Thomas Bernard.
 <context>
     <name>TransactionTableModel</name>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="209"/>
+        <location filename="../transactiontablemodel.cpp" line="211"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="209"/>
+        <location filename="../transactiontablemodel.cpp" line="211"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="209"/>
-        <source>Description</source>
-        <translation>Beschrijving</translation>
+        <location filename="../transactiontablemodel.cpp" line="211"/>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="209"/>
-        <source>Debit</source>
-        <translation>Debet</translation>
+        <location filename="../transactiontablemodel.cpp" line="211"/>
+        <source>Address</source>
+        <translation type="unfinished">Adres</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="209"/>
-        <source>Credit</source>
-        <translation>Credit</translation>
+        <location filename="../transactiontablemodel.cpp" line="211"/>
+        <source>Amount</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="278"/>
+        <source>Offline (%1 confirmations)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="281"/>
+        <source>Unconfirmed (%1/%2 confirmations)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="284"/>
+        <source>Confirmed (%1 confirmations)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location filename="../transactiontablemodel.cpp" line="270"/>
+        <location filename="../transactiontablemodel.cpp" line="293"/>
+        <source>Mined balance will be available in %n more blocks</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="299"/>
+        <source>This block was not received by any other nodes and will probably not be accepted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="302"/>
+        <source>Generated but not accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="348"/>
+        <source>Received with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="351"/>
+        <source>Received from IP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="354"/>
+        <source>Sent to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="357"/>
+        <source>Sent to IP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="363"/>
+        <source>Mined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="582"/>
+        <source>Type of transaction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="584"/>
+        <source>Destination address of transaction.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactiontablemodel.cpp" line="586"/>
+        <source>Amount removed from or added to balance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="obsolete">Beschrijving</translation>
+    </message>
+    <message>
+        <source>Debit</source>
+        <translation type="obsolete">Debet</translation>
+    </message>
+    <message>
+        <source>Credit</source>
+        <translation type="obsolete">Credit</translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../transactiontablemodel.cpp" line="272"/>
         <source>Open for %n block(s)</source>
         <translation>
             <numerusform>Open gedurende %n blok</numerusform>
@@ -652,97 +887,175 @@ door Thomas Bernard.
         </translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="273"/>
+        <location filename="../transactiontablemodel.cpp" line="275"/>
         <source>Open until %1</source>
         <translation>Open tot %1</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="276"/>
         <source>Offline (%1)</source>
-        <translation>Offline (%1)</translation>
+        <translation type="obsolete">Offline (%1)</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="279"/>
         <source>Unconfirmed (%1/%2)</source>
-        <translation>Niet bevestigd (%1/%2)</translation>
+        <translation type="obsolete">Niet bevestigd (%1/%2)</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="282"/>
         <source>Confirmed (%1)</source>
-        <translation>Bevestigd (%1)</translation>
+        <translation type="obsolete">Bevestigd (%1)</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="332"/>
         <source>Received with: </source>
-        <translation>Ontvangen met:</translation>
+        <translation type="obsolete">Ontvangen met:</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="335"/>
         <source>Received from IP: </source>
-        <translation>Ontvangen van IP:</translation>
+        <translation type="obsolete">Ontvangen van IP:</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="338"/>
         <source>Sent to: </source>
-        <translation>Verzonden aan:</translation>
+        <translation type="obsolete">Verzonden aan:</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="341"/>
         <source>Sent to IP: </source>
-        <translation>Verzonden aan IP:</translation>
+        <translation type="obsolete">Verzonden aan IP:</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="344"/>
+        <location filename="../transactiontablemodel.cpp" line="360"/>
         <source>Payment to yourself</source>
         <translation>Betaling aan uzelf</translation>
     </message>
     <message numerus="yes">
-        <location filename="../transactiontablemodel.cpp" line="350"/>
         <source>Generated (matures in %n more blocks)</source>
-        <translation>
+        <translation type="obsolete">
             <numerusform>Gegenereerd (wordt volwassen na %n blok)</numerusform>
             <numerusform>Gegenereerd (wordt volwassen na %n blokken)</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="354"/>
         <source>Generated</source>
-        <translation>Gegenereerd</translation>
+        <translation type="obsolete">Gegenereerd</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="357"/>
         <source>Generated - Warning: This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>Gegenereerd - Waarschuwing: Dit blok is niet ontvangen door andere nodes en zal waarschijnlijk niet geaccepteerd worden!</translation>
+        <translation type="obsolete">Gegenereerd - Waarschuwing: Dit blok is niet ontvangen door andere nodes en zal waarschijnlijk niet geaccepteerd worden!</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="360"/>
         <source>Generated (not accepted)</source>
-        <translation>Gegenereerd (niet geaccepteerd)</translation>
+        <translation type="obsolete">Gegenereerd (niet geaccepteerd)</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="531"/>
+        <location filename="../transactiontablemodel.cpp" line="578"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
         <translation>Transactiestatus. Hou de muiscursor boven dit veld om het aantal bevestigingen te laten zien.</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="533"/>
+        <location filename="../transactiontablemodel.cpp" line="580"/>
         <source>Date and time that the transaction was received.</source>
         <translation>Datum en tijd waarop deze transactie is ontvangen.</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="535"/>
         <source>Short description of the transaction.</source>
-        <translation>Korte beschrijving van de transactie.</translation>
+        <translation type="obsolete">Korte beschrijving van de transactie.</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="537"/>
         <source>Amount removed from balance.</source>
-        <translation>Bedrag afgeschreven van saldo.</translation>
+        <translation type="obsolete">Bedrag afgeschreven van saldo.</translation>
     </message>
     <message>
-        <location filename="../transactiontablemodel.cpp" line="539"/>
         <source>Amount added to balance.</source>
-        <translation>Bedrag bijgeschreven bij saldo.</translation>
+        <translation type="obsolete">Bedrag bijgeschreven bij saldo.</translation>
+    </message>
+</context>
+<context>
+    <name>TransactionView</name>
+    <message>
+        <location filename="../transactionview.cpp" line="39"/>
+        <location filename="../transactionview.cpp" line="52"/>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="40"/>
+        <source>Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="41"/>
+        <source>This week</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="42"/>
+        <source>This month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="43"/>
+        <source>Last month</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="44"/>
+        <source>This year</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="45"/>
+        <source>Range...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="53"/>
+        <source>Received with</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="55"/>
+        <source>Sent to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="57"/>
+        <source>To yourself</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="58"/>
+        <source>Mined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="59"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="209"/>
+        <source>Export Transaction Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="211"/>
+        <source>Comma separated file (*.csv)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="231"/>
+        <source>Error exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../transactionview.cpp" line="231"/>
+        <source>Could not write to file %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WalletModel</name>
+    <message>
+        <location filename="../walletmodel.cpp" line="95"/>
+        <source>Sending...</source>
+        <translation type="unfinished">Versturen...</translation>
     </message>
 </context>
 <context>
